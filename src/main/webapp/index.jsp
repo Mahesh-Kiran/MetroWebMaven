@@ -3,9 +3,6 @@
 <head>
     <title>Metro Tain Booking</title>
 </head>
-<style>
-	color:green;
-</style>
 <body>
     <h1>Welcome to the Metro Tain Booking</h1>
     <p>This is a simple web application built using JSP and Maven.</p>
@@ -14,6 +11,7 @@
     <ul>
         <li><a href="register.jsp">Registration for New user</a></li>
         <li><a href="login.jsp">Login page for booking</a></li>
+        <footer>&copy;copyright 2025</footer>
     </ul>
 </body>
 </html>
