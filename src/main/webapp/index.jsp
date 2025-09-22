@@ -3,6 +3,9 @@
 <head>
     <title>Metro Tain Booking</title>
 </head>
+<style>
+	color:green;
+</style>
 <body>
     <h1>Welcome to the Metro Tain Booking</h1>
     <p>This is a simple web application built using JSP and Maven.</p>
