@@ -1,0 +1,20 @@
+From 54bc5f67323ed01d20adb8f1e24babfd2e143dc7 Mon Sep 17 00:00:00 2001
+From: Mahesk-Kiran <maheshkiran2001010@gmail.com>
+Date: Mon, 22 Sep 2025 15:06:56 +0530
+Subject: [PATCH 1/2] WIP: Started DiscountService
+
+---
+ DiscountService.java | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 DiscountService.java
+
+diff --git a/DiscountService.java b/DiscountService.java
+new file mode 100644
+index 0000000..d5216c6
+--- /dev/null
++++ b/DiscountService.java
+@@ -0,0 +1 @@
++dfjsdjflksjdkfj
+-- 
+2.47.1.windows.1
+
